@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Infinite Canvas UI",
+  "description": "A replica of a modern, dark-themed infinite canvas application interface, built with React and Tailwind CSS. It features floating toolbars and a clean, minimalist design for a seamless user experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
